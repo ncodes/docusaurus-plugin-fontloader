@@ -1,0 +1,22 @@
+{
+  "name": "docusaurus-plugin-fontloader",
+  "version": "1.0.0",
+  "description": "Docusaurus plugin for loading fonts",
+  "main": "docusaurus-plugin-fontloader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kennedy Idialu",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncodes/docusaurus-plugin-sass.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ncodes/docusaurus-plugin-sass/issues"
+  },
+  "homepage": "https://github.com/ncodes/docusaurus-plugin-sass#readme",
+  "dependencies": {
+    "file-loader": "^6.0.0"
+  }
+}
